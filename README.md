@@ -1,4 +1,4 @@
-# CodeClauseInternship_retail_demand_forecasting
+# retail_demand_forecasting
 
 ✅ Retail Demand Forecasting
 This project uses historical sales data from a retail store to predict future product demand. Using Python, Pandas, and Statsmodels, we analyzed daily and monthly trends, performed time series decomposition, and implemented a SARIMA model to forecast demand. The model effectively captures seasonality and trends and is evaluated using RMSE, MAE, and MAPE metrics.
